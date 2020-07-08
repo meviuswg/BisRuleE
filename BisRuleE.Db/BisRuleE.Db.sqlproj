@@ -61,5 +61,8 @@
     <Build Include="EventData.sql" />
     <Build Include="Rules.sql" />
     <Build Include="RuleAction.sql" />
+    <Build Include="BisRuleEEventService.sql" />
+    <Build Include="BisRuleEEventMessage.sql" />
+    <Build Include="BisRuleEEvenQueue.sql" />
   </ItemGroup>
 </Project>

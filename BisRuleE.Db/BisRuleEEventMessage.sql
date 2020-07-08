@@ -1,0 +1,2 @@
+﻿CREATE MESSAGE TYPE [BisRuleEEventMessage]
+	VALIDATION = NONE
